@@ -1,4 +1,4 @@
-For challenge 1, 
+#For challenge 1, 
 
 you can make use of terraform scripts and create a variable file, so the terraform will consume the variable file for creating resources 3 tier architecture. 
 By having diff variable files for dev, uat & prod. By that way it becomes reusable.
